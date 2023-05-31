@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         CustomerList customerList = new CustomerList();
 
-        String customerLastName1 = "van der Maas";
+        String customerLastName1 = "van der Maas";gir
         String customerFirstName1 = "Matthijs";
         int customerNumber1 = 1;
 
